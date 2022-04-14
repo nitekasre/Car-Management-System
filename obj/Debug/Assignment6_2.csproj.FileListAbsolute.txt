@@ -1,0 +1,16 @@
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\bin\Debug\Assignment6_2.exe.config
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\bin\Debug\Assignment6_2.exe
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\bin\Debug\Assignment6_2.pdb
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\bin\Debug\EntityFramework.dll
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\bin\Debug\EntityFramework.xml
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\obj\Debug\Assignment6_2.csproj.AssemblyReference.cache
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\obj\Debug\Assignment6_2.Properties.Resources.resources
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\obj\Debug\Assignment6_2.csproj.GenerateResource.cache
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\obj\Debug\Assignment6_2.csproj.CoreCompileInputs.cache
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\obj\Debug\Assignment6_2.csproj.CopyComplete
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\obj\Debug\Assignment6_2.exe
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\obj\Debug\Assignment6_2.pdb
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\obj\Debug\Assignment6_2.FormCRUD.resources
+C:\MSSA 2022\02 - 20483\Week 3\Assignments\Assignment6_2\obj\Debug\Assignment6_2.formStart.resources
